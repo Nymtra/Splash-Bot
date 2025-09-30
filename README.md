@@ -1,7 +1,7 @@
 
 # 🌊 Splash-Bot  
 
-![Splash Bot Title](img/splasher.png)  
+![Splash Bot Title](img/Splasher.png)  
 
 A Discord bot that randomly selects splash screens (`.bmp`) from [Mayhem-Splashes](https://github.com/Nymtra/Mayhem-Splashes), converts them to `.png`, and sends them in style.  
 
@@ -74,11 +74,11 @@ Then in Discord, type:
 
 ### Bot Response Example
 
-![Bot Response](img/splasher1.png)
+![Bot Response](img/Splasher1.png)
 
 ### Hosted Website Preview
 
-![Website Preview](img/splasher2.png)
+![Website Preview](img/Splasher2.png)
 
 ---
 
@@ -88,11 +88,4 @@ Then in Discord, type:
 * 📂 [Splash Repository](https://github.com/Nymtra/Mayhem-Splashes)
 
 ---
-
-## ⚖️ License
-
-This project is licensed under the [MIT License](LICENSE).
-
-```
-
 
