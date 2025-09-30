@@ -1,5 +1,4 @@
 
-# 🌊 Splash-Bot  
 
 ![Splash Bot Title](img/Splasher.png)  
 
